@@ -23,12 +23,12 @@ Why re-invent the wheel? Well, for a while now, I've been wanting to learn more 
 > ## 👍 Victories and 👎 Challenges
 1. 👎 Haven't yet figured out how to create a generalized KNN algorithm that can not only take a single unclassified data point, but also an array of unclassified data points.
 2. 👎 Still learning the scikit-learn library's syntax and the understanding what exaclty certain functions are doing.
-3. 👍 Created a KNN algorithm that can classify a datapoint in a three-class set consisting of four features and one target value. [insert link to file here]
-4. 👍 Created simple data visualizations using matplotlib that depict the instance before and after a data point is classified. [insert images here]
-5. 👍 Trained and implemetned scikit-learn's KNN algorithm. [insert link to file here]
+3. 👍 Created a KNN algorithm that can classify a datapoint in a three-class set consisting of four features and one target value. [Code linked here.]([FINIHSED] KNN_general_algorithm_GC.ipynb)
+4. 👍 Created simple data visualizations using matplotlib that depict the instance before and after a data point is classified. [Images linked here.]([FINIHSED] KNN_general_algorithm_GC.ipynb)
+5. 👍 Trained and implemetned scikit-learn's KNN algorithm. [Code linked here]([FINIHSED] KNN_general_algorithm_GC.ipynb)
 
 
 <br/>
 
 > ## 🔭 Conclusion
-To re-iterate, the goal of this project was not to write the cleanest code, nor was it to write the most efficient KNN algorithm. The goal was to pull back the layers of this unfamiliar concept so that I can gain the confidence and intuition needed to apply KNN models to new and unfamiliar scenarios. So, in that regard, I think that this project was pretty successful, and, not to mention, also extremely rewarding! Moving forward, I'd like to continue ceating ML models from scratch, inclduing decision trees, random forests, genetic algorithms, and neural netoworks.
+To re-iterate, the goal of this project was not to write the cleanest code, nor was it to write the most efficient KNN algorithm. The goal was to pull back the layers of this unfamiliar concept so that I can gain the confidence and intuition needed to apply KNN models to new and unfamiliar scenarios. So, in that regard, I think that this project was pretty successful, and, not to mention, also extremely rewarding! Moving forward, I'd like to continue ceating ML models from scratch, inclduing decision trees, random forests, genetic algorithms, and neural networks.
