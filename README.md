@@ -1,4 +1,4 @@
-# Building A kNN From Scratch!
+# Building A KNN From Scratch!
 ![This is an image](https://i.imgur.com/6H25wTM.png)
 <br/>(Depicted: A simple data visual I created using matplotlib!)
 
