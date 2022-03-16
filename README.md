@@ -21,11 +21,11 @@ Why re-invent the wheel? Well, for a while now, I've been wanting to learn more 
 <br/>
 
 > ## 👍 Victories and 👎 Challenges
-1. 👎 Haven't yet figured out how to create a generalized KNN algorithm that can not only take a single unclassified data point, but also an array of unclassified data points.
+1. 👍 Created a KNN algorithm that can classify a datapoint in a three-class set consisting of four features and one target value. [Code linked here.](https://github.com/juanlucasumali/KNN-from-scratch/blob/3a19d959a9514a1e04e5fee57e5cd3af7db555e0/%5BFINIHSED%5D%20KNN_general_algorithm_GC.ipynb)
+2. 👍 Created simple data visualizations using matplotlib that depict the instance before and after a data point is classified. [Images linked here.](https://github.com/juanlucasumali/KNN-from-scratch/blob/3a19d959a9514a1e04e5fee57e5cd3af7db555e0/%5BFINIHSED%5D%20KNN_general_algorithm_GC.ipynb)
+3. 👍 Trained and implemetned scikit-learn's KNN algorithm. [Code linked here](https://github.com/juanlucasumali/KNN-from-scratch/blob/3a19d959a9514a1e04e5fee57e5cd3af7db555e0/%5BFINIHSED%5D%20KNN_general_algorithm_GC.ipynb)
+4. 👎 Haven't yet figured out how to create a generalized KNN algorithm that can not only take a single unclassified data point, but also an array of unclassified data points.
 2. 👎 Still learning the scikit-learn library's syntax and the understanding what exaclty certain functions are doing.
-3. 👍 Created a KNN algorithm that can classify a datapoint in a three-class set consisting of four features and one target value. [Code linked here.]([FINIHSED] KNN_general_algorithm_GC.ipynb)
-4. 👍 Created simple data visualizations using matplotlib that depict the instance before and after a data point is classified. [Images linked here.]([FINIHSED] KNN_general_algorithm_GC.ipynb)
-5. 👍 Trained and implemetned scikit-learn's KNN algorithm. [Code linked here]([FINIHSED] KNN_general_algorithm_GC.ipynb)
 
 
 <br/>
