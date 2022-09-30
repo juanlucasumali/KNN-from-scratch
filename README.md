@@ -10,7 +10,7 @@ Why re-invent the wheel? Well, for a while now, I've been wanting to learn more 
 <br/>
 
 > ## ⚙️ Process
-1.  WITHOUT looking at any code, I scoured the internet for articles and videos which included detailed yet digestable explanationß of the KNN formula. Sources I referenced heavily include [this article](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/) and [this video](https://www.youtube.com/watch?v=4ObVzTuFivY).
+1.  WITHOUT looking at any code, I scoured the internet for articles and videos which included detailed yet digestable explanations of the KNN formula. Sources I referenced heavily include [this article](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/) and [this video](https://www.youtube.com/watch?v=4ObVzTuFivY).
 3. Opened up Jupyter notebook and began coding my first simple KNN algorithm, which consisted of a Euclidian distance calculator and could only handle datasets with two features, one target, and two classes.
 4. Learned to use the pandas library in order to manipulate csv files using python. A key takeaway was learning how to translate categorial target values into numerical ones in order for the KNN algorithm to properly read the dataset.
 5. Learned to use the matplotlib plotting library in order to better visualize and understand the KNN algorithm's workings from another angle.
