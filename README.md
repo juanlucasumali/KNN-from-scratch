@@ -5,7 +5,7 @@
 <br/>
 
 > ## 🤔 Purpose
-Why re-invent the wheel? Well, for a while now, I've been wanting to learn more about how to apply machine learning models to my personal coding projects. However, my first few attempts at using ML libraries (like scikit-learn) WITHOUT a tutorial didn't work out. It was at that moment that knew I knew I was way out of my depth. So, by creating and implementing ML models from scratch (starting with a simple KNN algorithm), I hope to un-black box these models and gain a more fundamental understanding of the mathematical and statistical concepts behind them. As a result, I may hopefully apply them to novel use cases and tweak them as needed to best fit future scenarios.
+Why re-invent the wheel? Well, for a while now, I've been wanting to learn more about how to apply machine learning models to my personal coding projects. However, my first few attempts at using ML libraries (like scikit-learn) WITHOUT a tutorial didn't work out. It was at that moment that knew I knew I was way out of my depth. So, by **creating and implementing ML models from scratch** (starting with a simple KNN algorithm), I hope to **un-black box these models and gain a more fundamental understanding** of the mathematical and statistical concepts behind them. As a result, I may hopefully apply them to novel use cases and tweak them as needed to best fit future scenarios.
 
 <br/>
 
@@ -16,7 +16,7 @@ Why re-invent the wheel? Well, for a while now, I've been wanting to learn more 
 5. Learned to use the matplotlib plotting library in order to better visualize and understand the KNN algorithm's workings from another angle.
 6. Tested my model on a classic use case scenario: iris speciies classification! I used this [datast](https://www.kaggle.com/rutujavaidya/iris-dataset?select=Iris.csv) taken from Kaggle.
 7. After further readings, I learned to implement additional features to my model, such as a function that checked the accuracy of the algorithm's predicted values as compared to the actual values, as well as a function which identified an optimal k value for a specific dataset that would return the most accurate predicted values.
-8. With my newfound understanding of the KNN algorithm, I applied the KNN algorithm from the scikit-learn to the iris database. This helped in verifying the usability and accuracy of my algorithm. This also set me up well in learning how to fit and train future models with scikit-learn's library.
+8. With my newfound understanding of the KNN algorithm, I **applied the KNN algorithm from the scikit-learn to the iris database.** This helped in **verifying the usability and accuracy of my algorithm.** This also set me up well in learning how to fit and train future models with scikit-learn's library.
 
 <br/>
 
@@ -31,4 +31,4 @@ Why re-invent the wheel? Well, for a while now, I've been wanting to learn more 
 <br/>
 
 > ## 🔭 Conclusion
-To re-iterate, the goal of this project was not to write the cleanest code, nor was it to write the most efficient KNN algorithm. The goal was to pull back the layers of this unfamiliar concept so that I can gain the confidence and intuition needed to apply KNN models to new and unfamiliar scenarios. So, in that regard, I think that this project was pretty successful, and, not to mention, also extremely rewarding! Moving forward, I'd like to continue ceating ML models from scratch, inclduing decision trees, random forests, genetic algorithms, and neural networks.
+To re-iterate, the goal of this project was not to write the cleanest code, nor was it to write the most efficient KNN algorithm. The goal was to **pull back the layers of this unfamiliar concept so that I can gain the confidence and intuition** needed to apply KNN models to new and unfamiliar scenarios. So, in that regard, I think that this project was pretty successful, and, not to mention, also extremely rewarding! Moving forward, I'd like to continue ceating ML models from scratch, inclduing decision trees, random forests, genetic algorithms, and neural networks.
